@@ -41,6 +41,6 @@ If you have ideas for new features, improvements, or additional responses, we we
 
 ## Acknowledgments
 
-- The Magic 98Ball concept was inspired by the classic Magic 8 Ball toy.
+- The Magic 8 Ball concept was inspired by the classic Magic 8 Ball toy.
 
 Enjoy using the Magic 9 Ball Python! May it bring fun and whimsy to your decision-making adventures.
